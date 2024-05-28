@@ -1,2 +1,0 @@
-nombre = "Luz"
-print(nombre)

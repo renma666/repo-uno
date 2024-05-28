@@ -1,4 +1,4 @@
-nom = "Renzo"
+nom = "Rencito"
 ape = "Matta"
 
 saludo = "Hola " + nom + " " + ape + " ¿Cómo estás?"
